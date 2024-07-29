@@ -121,7 +121,7 @@ st.markdown('<h1 class="main-title">EDEN CARE SERVICES DASHBOARD</h1>', unsafe_a
 
 # Your Streamlit app content
 
-st.image("undraw_analytics_re_dkf8.svg", caption='Eden Care Medical', use_column_width=True)
+st.image("image.png", caption='Eden Care Medical', use_column_width=True)
 
 st.markdown('<h2 class="subheader">Welcome to the Eden Care Medical Dashboard</h2>', unsafe_allow_html=True)
 
